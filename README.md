@@ -2,7 +2,7 @@
 
 # Gustavo Henrique Ferreira Simões
 ### **AI Builder & Full Stack Software Engineer | PSM I (Scrum.org)**
-**Londrina, Paraná, Brasil • [LinkedIn](https://linkedin.com/in/gustavo-hf-simoes) • [Portfólio & Currículo ATS](https://github.com/gustavo-hf-simoes) • [E-mail](mailto:gustavo.hf.simoes@gmail.com)**
+**Londrina, Paraná, Brasil • [LinkedIn](https://linkedin.com/in/gustavo-hf-simoes) • [Portfólio Online & Currículo ATS](https://gustavo-hf-simoes.github.io) • [E-mail](mailto:gustavo.hf.simoes@gmail.com)**
 
 [![PSM I Certified](https://img.shields.io/badge/Scrum.org-PSM%20I%20Certified-f59e0b?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
 [![AI Builder](https://img.shields.io/badge/GenAI-AI%20Builder%20%26%20Agents-38bdf8?style=for-the-badge&logo=openai&logoColor=white)](#)
@@ -59,7 +59,7 @@ Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
 <tr>
 <td width="50%" valign="top">
 
-### 3. 🧠 [Spec-Driven AI Multi-Agent Pipeline](https://github.com/gustavo-hf-simoes/spec-driven-ai-pipeline)
+### 3. 🧠 [Spec-Driven AI Multi-Agent Pipeline](https://github.com/gustavo-hf-simoes/portfolio-profissional-analista-de-ia)
 > **Esteira de Governança Multi-Agente & FinOps de Tokens**
 
 * **O Problema:** Alucinações de LLMs em desenvolvimento de software e custo proibitivo de tokens em contextos longos.
@@ -125,7 +125,7 @@ Estou sempre aberto a trocar ideias sobre Inteligência Artificial, Agentes Aut�
 * 💬 **WhatsApp Oficial:** [+55 (43) 99603-4632](https://wa.me/5543996034632)
 * 💼 **LinkedIn:** [linkedin.com/in/gustavo-hf-simoes](https://linkedin.com/in/gustavo-hf-simoes)
 * ✉️ **E-mail:** [gustavo.hf.simoes@gmail.com](mailto:gustavo.hf.simoes@gmail.com)
-* 🌐 **Portfólio & Currículo ATS:** [Acessar Versão Interativa](https://github.com/gustavo-hf-simoes)
+* 🌐 **Portfólio Online & Currículo ATS:** [https://gustavo-hf-simoes.github.io](https://gustavo-hf-simoes.github.io)
 
 ---
 <div align="center">
