@@ -2,7 +2,7 @@
 
 # Gustavo Henrique Ferreira Simões
 ### **AI Builder & Full Stack Software Engineer | PSM I (Scrum.org)**
-**Londrina, Paraná, Brasil • [LinkedIn](https://linkedin.com/in/gustavo-hf-simoes) • [Portfólio Online & Currículo ATS](https://gustavo-hf-simoes.github.io) • [E-mail](mailto:gustavo.hf.simoes@gmail.com)**
+**Londrina, Paraná, Brasil • [LinkedIn](https://linkedin.com/in/ghfs) • [Portfólio Online & Currículo ATS](https://gustavo-hf-simoes.github.io) • [E-mail](mailto:gustavo.hf.simoes@gmail.com)**
 
 [![PSM I Certified](https://img.shields.io/badge/Scrum.org-PSM%20I%20Certified-f59e0b?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
 [![AI Builder](https://img.shields.io/badge/GenAI-AI%20Builder%20%26%20Agents-38bdf8?style=for-the-badge&logo=openai&logoColor=white)](#)
@@ -123,7 +123,7 @@ Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
 Estou sempre aberto a trocar ideias sobre Inteligência Artificial, Agentes Autônomos, Arquitetura de Software e Inovação.
 
 * 💬 **WhatsApp Oficial:** [+55 (43) 99603-4632](https://wa.me/5543996034632)
-* 💼 **LinkedIn:** [linkedin.com/in/gustavo-hf-simoes](https://linkedin.com/in/gustavo-hf-simoes)
+* 💼 **LinkedIn:** [linkedin.com/in/ghfs](https://linkedin.com/in/ghfs)
 * ✉️ **E-mail:** [gustavo.hf.simoes@gmail.com](mailto:gustavo.hf.simoes@gmail.com)
 * 🌐 **Portfólio Online & Currículo ATS:** [https://gustavo-hf-simoes.github.io](https://gustavo-hf-simoes.github.io)
 
