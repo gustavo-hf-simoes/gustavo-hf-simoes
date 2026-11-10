@@ -1,16 +1,16 @@
 <div align="center">
 
 # Gustavo Henrique Ferreira Simões
-### **AI Builder & Full Stack Software Engineer | PSM I (Scrum.org)**
+### **Engenheiro de Software Full Stack & IA Aplicada | PSM I (Scrum.org)**
 **Londrina, Paraná, Brasil • [LinkedIn](https://linkedin.com/in/ghfs) • [Portfólio Online & Currículo ATS](https://gustavo-hf-simoes.github.io) • [E-mail](mailto:gustavo.hf.simoes@gmail.com)**
 
 [![PSM I Certified](https://img.shields.io/badge/Scrum.org-PSM%20I%20Certified-f59e0b?style=for-the-badge&logo=scrumalliance&logoColor=white)](https://www.scrum.org/)
-[![AI Builder](https://img.shields.io/badge/GenAI-AI%20Builder%20%26%20Agents-38bdf8?style=for-the-badge&logo=openai&logoColor=white)](#)
+[![AI & Automação](https://img.shields.io/badge/IA%20Aplicada-Agentes%20Autônomos%20%26%20MCP-38bdf8?style=for-the-badge&logo=openai&logoColor=white)](#)
 [![Experience](https://img.shields.io/badge/6%2B%20Anos-Engenharia%20de%20Software-10b981?style=for-the-badge)](#)
 [![Education](https://img.shields.io/badge/Graduando-ADS%20(Estácio)-6366f1?style=for-the-badge)](#)
 
 <p align="center">
-  <em>"Transformando problemas operacionais complexos em agentes de IA autônomos, integrações de alto impacto e produtos funcionais de ponta a ponta."</em>
+  <em>"Transformando problemas operacionais complexos em agentes autônomos, integrações de alto impacto e produtos funcionais de ponta a ponta."</em>
 </p>
 
 ---
@@ -19,23 +19,13 @@
 
 ## 🚀 Sobre Mim
 
-Engenheiro de Software e **AI Builder** com **mais de 6 anos de experiência prática** no desenvolvimento e sustentação de sistemas de missão crítica em saúde e laboratórios (Concent Sistemas, 2019–2025: C#, .NET Core, Angular, SQL Server, protocolos seriais RS-232 e TCP/IP).
+Engenheiro de Software com **mais de 6 anos de experiência prática** no desenvolvimento e sustentação de sistemas de missão crítica em saúde e laboratórios (Concent Sistemas, 2019–2025: C#, .NET Core, Angular, SQL Server, protocolos seriais RS-232 e TCP/IP).
 
-Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
+Atualmente foco na **aplicação prática de Inteligência Artificial e Hiperautomação**:
 * 🤖 **Agentes Autônomos & Protocolo MCP (Model Context Protocol):** Construção de servidores locais e em nuvem que conectam LLMs a APIs externas, bancos relacionais e canais conversacionais (WhatsApp Business API).
-* ⚙️ **Hiperautomação de Processos:** Redução comprovada de até **90% no tempo operacional** de triagem e emissão documental.
+* ⚙️ **Automação de Processos:** Redução comprovada de até **90% no tempo operacional** de triagem e emissão documental.
 * 📐 **Governança Spec-Driven Development (SDD):** Desenvolvimento guiado por especificações rígidas, contratos API-First, baterias automatizadas de testes e esteiras multi-agentes com checkpoints humanos.
 * 🎓 **Formação Híbrida & Resiliência:** Graduando em Análise e Desenvolvimento de Sistemas (Estácio), Bacharel em Biomedicina (UniFil) e certificado internacional **Professional Scrum Master™ I (PSM I — Scrum.org)**.
-
----
-
-## 🌟 Destaque Especial: [iFood Partner Copilot](https://github.com/gustavo-hf-simoes/ifood-partner-copilot)
-> **Diagnóstico Operacional com IA & Conformidade LGPD para Restaurantes Parceiros (Ecossistema iFood / Toqan)**
-
-* **O Problema:** Novos restaurantes no marketplace sofrem com notas baixas e risco de cancelamento nos primeiros 30 dias por perda térmica ou atraso no despacho da cozinha, sem equipe analítica para ler centenas de reviews.
-* **A Solução:** Agente em Node.js que ingere avaliações, anonimiza dados sensíveis (LGPD), classifica gargalos operacionais em lote (*batch processing*) e gera planos de ação imediatos de alto ROI.
-* **Impacto:** Diagnóstico em menos de 1 segundo, zero dependências externas em runtime e suíte de testes 100% verde.
-* **Repositório:** [github.com/gustavo-hf-simoes/ifood-partner-copilot](https://github.com/gustavo-hf-simoes/ifood-partner-copilot)
 
 ---
 
@@ -129,9 +119,9 @@ Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
-  <img src="https://img.shields.io/badge/Foco-AI_Builder_%26_Agents-38bdf8?style=for-the-badge&logo=openai&logoColor=white" alt="Foco" />
+  <img src="https://img.shields.io/badge/Foco-Agentes_Autônomos_%26_MCP-38bdf8?style=for-the-badge&logo=openai&logoColor=white" alt="Foco" />
   <img src="https://img.shields.io/badge/Metodologia-Spec--Driven_Development-6366f1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Metodologia" />
-  <img src="https://komarev.com/ghpvc/?username=gustavo-hf-simoes&color=38bdf8&style=for-the-badge&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
+  <img src="https://komarev.com/ghpvc/?username=gustavo-hf-simoes&color=38bdf8&style=for-the-badge&label=VISITAS" alt="Contador de Visitas" />
 </p>
 
 ---
