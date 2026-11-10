@@ -29,13 +29,13 @@ Atualmente foco na **aplicação prática de Inteligência Artificial e Hiperaut
 
 ---
 
-## 🏆 Quarteto de Ouro — Projetos em Destaque
+## 🏆 Projetos em Destaque
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 1. ⚖️ [DJEN LegalTech & WhatsApp MCP](https://github.com/gustavo-hf-simoes/djen-mcp-agent)
+### 1. ⚖️ [DJEN LegalTech & MCP](https://github.com/gustavo-hf-simoes/djen-mcp-agent)
 > **Agente Autônomo com Protocolo MCP para Automação Jurídica**
 
 * **O Problema:** Atendimento manual no WhatsApp, coleta dispersa de dados e perda de horas formatando petições e kits de procuração.
@@ -44,39 +44,26 @@ Atualmente foco na **aplicação prática de Inteligência Artificial e Hiperaut
 * **Stack:** `Node.js` • `TypeScript` • `Model Context Protocol (MCP)` • `WhatsApp API` • `PostgreSQL` • `n8n`
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 2. 🎯 [Auto-Apply Agent](https://github.com/gustavo-hf-simoes/auto-apply-agent)
-> **Agente Autônomo com Playwright Stealth & IA para Triagem**
+### 2. ☕ [Calc Coffee PWA](https://github.com/gustavo-hf-simoes/calc-coffee-pwa)
+> **Aplicação Web Progressiva Offline-First & Copiloto Sensorial**
 
-* **O Problema:** Processamento manual de oportunidades, incompatibilidade semântica de currículos com plataformas ATS e preenchimento repetitivo.
-* **A Solução:** Agente em 5 estágios que realiza web scraping inteligente, validação estrita de esquemas com **Zod**, customização dinâmica de currículos por LLM (OmniRoute) e automação de navegador com evasão anti-bot.
-* **Impacto:** Triagem 100% autônoma com auditoria em SQLite e zero retrabalho.
-* **Stack:** `Node.js` • `Playwright` • `Zod` • `Express` • `SQLite` • `LLM Prompt Chaining`
+* **O Problema:** Falta de ferramentas padronizadas para cálculo de extração e perfil sensorial segundo as normas mundiais de cafés especiais.
+* **A Solução:** PWA instalável offline-first com motor de cálculo matemático reativo (<15ms) e módulo sensorial baseado na Roda de Sabores da Specialty Coffee Association (SCA).
+* **Impacto:** 100% autônomo offline com testes automatizados e empacotamento nativo (Capacitor/APK).
+* **Stack:** `JavaScript ES6+` • `PWA (Service Workers)` • `Capacitor` • `CSS3 Moderno` • `SCA Standards`
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-### 3. 🧠 [Spec-Driven AI Multi-Agent Pipeline](https://github.com/gustavo-hf-simoes/portfolio-profissional-analista-de-ia)
+### 3. 🧠 [Spec-Driven AI Pipeline](https://github.com/gustavo-hf-simoes/portfolio-profissional-analista-de-ia)
 > **Esteira de Governança Multi-Agente & FinOps de Tokens**
 
 * **O Problema:** Alucinações de LLMs em desenvolvimento de software e custo proibitivo de tokens em contextos longos.
 * **A Solução:** Esteira com 4 subagentes especializados (PO, Arquiteto, Dev e QA Auditor) operando sob contratos rígidos (PRD ➔ SPEC ➔ Código ➔ QA) com 2 checkpoints humanos (*Human-in-the-Loop*).
 * **Impacto:** **-85% no custo de inferência** via roteamento híbrido inteligente e zero código sem especificação.
 * **Stack:** `Node.js` • `Multi-Agent Architecture` • `FinOps` • `TDD / BDD` • `OmniRoute`
-
-</td>
-<td width="50%" valign="top">
-
-### 4. ☕ [Calc Coffee — Copiloto Sensorial PWA](https://github.com/gustavo-hf-simoes/calc-coffee-pwa)
-> **Aplicação Web Progressiva Offline-First & Motor Sensorial**
-
-* **O Problema:** Falta de ferramentas padronizadas para cálculo de extração e perfil sensorial segundo as normas mundiais de cafés especiais.
-* **A Solução:** PWA instalável offline-first com motor de cálculo matemático reativo (<15ms) e módulo sensorial baseado na Roda de Sabores da Specialty Coffee Association (SCA).
-* **Impacto:** 100% autônomo offline com testes automatizados e empacotamento nativo (Capacitor/APK).
-* **Stack:** `JavaScript ES6+` • `PWA (Service Workers)` • `Capacitor` • `CSS3 Moderno` • `SCA Standards`
 
 </td>
 </tr>
