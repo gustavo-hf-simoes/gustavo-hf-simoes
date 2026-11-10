@@ -29,6 +29,16 @@ Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
 
 ---
 
+## 🌟 Destaque Especial: [iFood Partner Copilot](https://github.com/gustavo-hf-simoes/ifood-partner-copilot)
+> **Diagnóstico Operacional com IA & Conformidade LGPD para Restaurantes Parceiros (Ecossistema iFood / Toqan)**
+
+* **O Problema:** Novos restaurantes no marketplace sofrem com notas baixas e risco de cancelamento nos primeiros 30 dias por perda térmica ou atraso no despacho da cozinha, sem equipe analítica para ler centenas de reviews.
+* **A Solução:** Agente em Node.js que ingere avaliações, anonimiza dados sensíveis (LGPD), classifica gargalos operacionais em lote (*batch processing*) e gera planos de ação imediatos de alto ROI.
+* **Impacto:** Diagnóstico em menos de 1 segundo, zero dependências externas em runtime e suíte de testes 100% verde.
+* **Repositório:** [github.com/gustavo-hf-simoes/ifood-partner-copilot](https://github.com/gustavo-hf-simoes/ifood-partner-copilot)
+
+---
+
 ## 🏆 Quarteto de Ouro — Projetos em Destaque
 
 <table width="100%">
