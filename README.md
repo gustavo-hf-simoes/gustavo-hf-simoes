@@ -109,12 +109,20 @@ Atualmente foco na **fronteira da Inteligência Artificial Aplicada (GenAI)**:
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 Métricas & Atividade no GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-hf-simoes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-hf-simoes&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais Usadas" height="155"/>
+  <a href="https://github.com/gustavo-hf-simoes">
+    <img src="https://streak-stats.demolab.com/?user=gustavo-hf-simoes&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  </a>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Disponível_para_Oportunidades-10b981?style=for-the-badge&logo=git&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Foco-AI_Builder_%26_Agents-38bdf8?style=for-the-badge&logo=openai&logoColor=white" alt="Foco" />
+  <img src="https://img.shields.io/badge/Metodologia-Spec--Driven_Development-6366f1?style=for-the-badge&logo=gitbook&logoColor=white" alt="Metodologia" />
+  <img src="https://komarev.com/ghpvc/?username=gustavo-hf-simoes&color=38bdf8&style=for-the-badge&label=VISUALIZAÇÕES" alt="Contador de Visitas" />
+</p>
 
 ---
 
